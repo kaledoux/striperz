@@ -1,1 +1,1 @@
-# striperz
+# README
